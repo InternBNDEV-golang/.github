@@ -4,15 +4,4 @@
   
 # Intership Botnoi Back-End Developer
 
-# List Name
-
 </div>
-
-- [Non](https://github.com/orgs/InternBNDEV-golang/people/NTP45)
-- [Mo](https://github.com/orgs/InternBNDEV-golang/people/Korrawit6120)
-- Ken
-- [Ping](https://github.com/orgs/InternBNDEV-golang/people/boyspanuwat)
-- [Mean](https://github.com/orgs/InternBNDEV-golang/people/siriwat3889)
-- [Tiger](https://github.com/orgs/InternBNDEV-golang/people/630401130011)
-- [Proton](https://github.com/orgs/InternBNDEV-golang/people/watchakorn-18k)
-- [Tigger](https://github.com/orgs/InternBNDEV-golang/people/JohnFarmers)
